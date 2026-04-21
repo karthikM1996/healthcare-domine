@@ -18,7 +18,7 @@ let loginpageObj=new LoginPage(page)
 await loginpageObj.LoginFunction(username,password)
 
  
-console.log("123")
+console.log("aaa")
 
 
 
