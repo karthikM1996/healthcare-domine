@@ -17,8 +17,6 @@ let context=await browser.newContext()
 let loginpageObj=new LoginPage(page)
 await loginpageObj.LoginFunction(username,password)
 
-console.log("hhhhhhhhhhhhhh")
-
  
 
 
